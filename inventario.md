@@ -2,4 +2,5 @@
 
 ## Inventario
 
-[schede_madri](./schede_madri.md)
+- [schede_madri](./schede_madri.md)
+- [Processori](./processori.md)
