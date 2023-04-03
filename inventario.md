@@ -5,10 +5,11 @@
 ### Componenti
 
 - [schede_madri](./componenti/schede_madri.md)
-- [Processori](./componenti/processori.md)
+- [processori](./componenti/processori.md)
 
 ### Periferiche
 
 - [tastiere](./periferiche/tastiere.md)
+- [mouse](./periferiche/mouse.md)
 
 *Elettronica Padovana*
