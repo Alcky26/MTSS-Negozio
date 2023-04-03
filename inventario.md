@@ -4,3 +4,6 @@
 
 - [schede_madri](./schede_madri.md)
 - [Processori](./processori.md)
+
+
+*Elettronica Padovana*
